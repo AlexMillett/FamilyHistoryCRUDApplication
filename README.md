@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This project consists of a Jupyter Notebook that demonstrates the application of neural networks for image style transfer using deep learning techniques.  In this Jupyter Notebook there is a short description of steps taken to create this neural network, as well as all of the needed code.  
+This project consists of a full CRUD Application.  The code I wrote was primarily the back end database using SQLite and Java.  The front end was done in android studio.  This application immitates a classic family history application using a relational database.
 <br />
 
 
@@ -15,4 +15,4 @@ This project consists of a Jupyter Notebook that demonstrates the application of
 
 <h2>Environments Used </h2>
 
-- <b>Google Colab</b>
+- <b>IntelliJ and Android Studio</b>
